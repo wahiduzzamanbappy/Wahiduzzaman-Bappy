@@ -1,18 +1,18 @@
-# Hi there 👋, I'm Wahiduzzaman Bappy  
+# Hi there 👋,
 
-💻 **Software Engineer | Mobile & Web Developer**  
+💻 **Flutter Developer | Sr. Implemetation Engineer**  
 
 🔭 Currently working on **Web Applications, Mobile Apps & Hospital Management Software**  
-🌱 Learning **Flutter, Laravel 11, API Integration, Cloudflare D1**  
+🌱 Learning **Flutter, API Integration, LIS & PACS**  
 👯 Looking to collaborate on **Open Source & Healthcare Tech Projects**  
 ⚡ Fun fact: I enjoy turning complex problems into simple solutions.  
 
 ---
 
 ### 🛠️ Tech Stack  
-- **Languages:** PHP, JavaScript, TypeScript, Dart, C, C++  
-- **Frameworks:** Laravel, Flutter, React, Node.js, CodeIgniter  
-- **Databases:** MySQL, Cloudflare D1, Firebase  
+- **Languages:** Dart, Python, C++  
+- **Frameworks:** Flutter, React, Node.js  
+- **Databases:** Firebase, MySQL, MongoDB,   
 - **Others:** API Development, SEO, Embedded Systems  
 
 ---
