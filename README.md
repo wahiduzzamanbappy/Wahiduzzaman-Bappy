@@ -4,15 +4,15 @@ Working as a Sr. Implementation Engineer, Healthcare Projects
 
 💻 **Flutter Developer | Problem Solver | Sr. Implementation Engineer | HMIS Specialist**  
 
-🔭 Currently working on **Hospital Management System, Educational Platforms, and IoT Projects**  
-🌱 Learning **AI Integration, and Microcontrollers**  
-👯 Looking to collaborate on **Mobile app Development & Healthcare Tech Projects**  
+🔭 Currently working on **Hospital Management System, IoT Projects**  
+🌱 Learning **AI Integration, and Microservices**  
+👯 Looking to collaborate on **Mobile app Development & Healthcare Projects**  
 ⚡ Fun fact: I love mixing **engineering + design + business**  
 
 ---
 
 ### 🛠️ Tech Stack  
-- **Languages:** Dart, Python, C++  
+- **Languages:** Dart, Python
 - **Frameworks:** Flutter, React, Node.js
 - **Databases:** Firebase, MongoDB, MySQL 
 - **Others:** API Development, HealthTech Projects, LIS & PACS  
