@@ -25,9 +25,9 @@
 ---
 
 ### 🔗 Reach me at  
-📧 Email: yourmail@example.com  
-🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-📍 Location: Bangladesh  
+📧 Email: wahiduzzamaanbappy@gmail.com  
+🌐 Portfolio: [(https://md-wahiduzzaman-bappy.vercel.app/)]  
+📍 Location: Dhaka, Bangladesh  
 
 ---
 
