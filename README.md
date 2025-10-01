@@ -1,5 +1,6 @@
 # Hi there 👋,
 
+Working full-time as a Sr. Implementation Engineer for healthcare & hospital systems, and on the side exploring Mobile App Developer, APIs, LIS, PACS—or just tinkering with whatever tech feels fun.
 💻 **Flutter Developer | Sr. Implemetation Engineer**  
 
 🔭 Currently working on **Web Applications, Mobile Apps & Hospital Management Software**  
