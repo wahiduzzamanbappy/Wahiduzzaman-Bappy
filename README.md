@@ -1,37 +1,33 @@
-# Hi there 👋
+# Hi there 👋, I'm Wahiduzzaman Bappy  
 
-Working as a Sr. Implementation Engineer, Healthcare Projects
+💻 **Software Engineer | Mobile & Web Developer**  
 
-💻 **Flutter Developer | Problem Solver | Sr. Implementation Engineer | HMIS Specialist**  
-
-🔭 Currently working on **Hospital Management System, IoT Projects**  
-🌱 Learning **AI Integration, and Microservices**  
-👯 Looking to collaborate on **Mobile app Development & Healthcare Projects**  
-⚡ Fun fact: I love mixing **engineering + design + business**  
+🔭 Currently working on **Web Applications, Mobile Apps & Hospital Management Software**  
+🌱 Learning **Flutter, Laravel 11, API Integration, Cloudflare D1**  
+👯 Looking to collaborate on **Open Source & Healthcare Tech Projects**  
+⚡ Fun fact: I enjoy turning complex problems into simple solutions.  
 
 ---
 
 ### 🛠️ Tech Stack  
-- **Languages:** Dart, Python
-- **Frameworks:** Flutter, React, Node.js
-- **Databases:** Firebase, MongoDB, MySQL 
-- **Others:** API Development, HealthTech Projects, LIS & PACS  
+- **Languages:** PHP, JavaScript, TypeScript, Dart, C, C++  
+- **Frameworks:** Laravel, Flutter, React, Node.js, CodeIgniter  
+- **Databases:** MySQL, Cloudflare D1, Firebase  
+- **Others:** API Development, SEO, Embedded Systems  
 
 ---
 
-### 📊 LinkedIn 
+### 📊 GitHub Stats  
 
-![LinkedIn Stats](www.linkedin.com/in/md-wahiduzzaman-bappy-a64ab91a7))   
-
-### 📊 Portfolio Stats  
-
-![Postfolio Stats]([https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight](https://md-wahiduzzaman-bappy.vercel.app/))   
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahiduzzamanbappy&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wahiduzzamanbappy&layout=compact&theme=tokyonight)  
 
 ---
 
 ### 🔗 Reach me at  
-📧 Email: wahiduzzamaanbappy@gmail.com  
-📍 Location: Dhaka, Bangladesh  
+📧 Email: yourmail@example.com  
+🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+📍 Location: Bangladesh  
 
 ---
 
