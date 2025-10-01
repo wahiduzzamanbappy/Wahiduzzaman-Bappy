@@ -2,7 +2,7 @@
 
 Working as a Sr. Implementation Engineer, Healthcare Projects
 
-💻 **Sr. Implementation Engineer | Flutter Developer | Problem Solver**  
+💻 **Flutter Developer | Problem Solver | Sr. Implementation Engineer | HMIS Specialist**  
 
 🔭 Currently working on **Hospital Management System, Educational Platforms, and IoT Projects**  
 🌱 Learning **AI Integration, and Microcontrollers**  
@@ -18,6 +18,10 @@ Working as a Sr. Implementation Engineer, Healthcare Projects
 - **Others:** API Development, HealthTech Projects, LIS & PACS  
 
 ---
+
+### 📊 LinkedIn 
+
+![LinkedIn Stats](www.linkedin.com/in/md-wahiduzzaman-bappy-a64ab91a7))   
 
 ### 📊 Portfolio Stats  
 
