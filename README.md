@@ -30,6 +30,8 @@ Working full-time as a Sr. Implementation Engineer for HMIS systems, and on the 
 ### 🔗 Reach me at  
 📧 Email: wahiduzzamaanbappy@gmail.com  
 🌐 Portfolio: [(https://md-wahiduzzaman-bappy.vercel.app/)]  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BesinSWKlQkagryH6L9%2F8bQ%3D%3D)
+
 📍 Location: Dhaka, Bangladesh  
 
 ---
