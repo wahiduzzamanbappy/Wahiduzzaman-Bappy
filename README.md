@@ -21,9 +21,10 @@ Working full-time as a Sr. Implementation Engineer for HMIS systems, and on the 
 ---
 
 ### 📊 GitHub Stats  
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahiduzzamanbappy&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wahiduzzamanbappy&layout=compact&theme=tokyonight)  
+
+### 📊 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wahiduzzamanbappy&layout=compact&theme=tokyonight)
 
 ---
 
